@@ -12,3 +12,4 @@ C:\Users\User\source\repos\Interface\Interface\obj\Debug\net8.0\refint\Interface
 C:\Users\User\source\repos\Interface\Interface\obj\Debug\net8.0\Interface.pdb
 C:\Users\User\source\repos\Interface\Interface\obj\Debug\net8.0\Interface.genruntimeconfig.cache
 C:\Users\User\source\repos\Interface\Interface\obj\Debug\net8.0\ref\Interface.dll
+C:\Users\User\source\repos\Interface\Interface\obj\Debug\net8.0\Interface.sourcelink.json
